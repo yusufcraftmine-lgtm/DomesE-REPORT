@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Unlimited Void (Muryōkūsho)",
+    "user": "Satoru Gojo",
+    "type": "Lethal Domain",
+    "description": "Brings the target inside the concept of Infinity, flooding their brain with endless information and rendering them completely paralyzed.",
+    "image": "https://i.pinimg.com/1200x/9c/a8/65/9ca8653425cab3976aaa55ff59743612.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Malevolent Shrine (Fukuma Mizushi)",
+    "user": "Ryomen Sukuna",
+    "type": "Open-Barrier Domain",
+    "description": "An open-barrier domain that continuously slashes everything within a 200-meter radius using Cleave and Dismantle.",
+    "image": "https://i.pinimg.com/1200x/b2/f4/e5/b2f4e50244b0d33322bed3eb2b8c9e5c.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Authentic Mutual Love (Shin'ai Sōkaku)",
+    "user": "Yuta Okkotsu",
+    "type": "Lethal Domain",
+    "description": "Fills the area with countless katanas embedded in the ground, each holding a randomly assigned Cursed Technique copied by Yuta.",
+    "image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/7a/Authentic_Mutual_Love.png"
+  },
+  {
+    "id": 4,
+    "name": "Chimera Shadow Garden (Kangō Anbu Teien)",
+    "user": "Megumi Fushiguro",
+    "type": "Incomplete Domain",
+    "description": "Floods the environment with shadow fluid, allowing Megumi to summon multiple Shikigami duplicates and hide in shadows.",
+    "image": "https://i.pinimg.com/736x/27/04/92/27049293922c7e9824ff01a961ee4360.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Idle Death Gamble (Zaatsu Chappira)",
+    "user": "Kinji Hakari",
+    "type": "Non-Lethal / Rule-Based Domain",
+    "description": "A pachinko-themed domain that infuses rules into the target's brain, granting Hakari jackpot immortality.",
+    "image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/80/Idle_Death_Gamble.png"
+  },
+  {
+    "id": 6,
+    "name": "Deadly Sentencing (Higashi no Shinki)",
+    "user": "Hiromi Higuruma",
+    "type": "Non-Lethal / Rule-Based Domain",
+    "description": "A court-themed domain prosecuting the opponent for past crimes using a Shikigami named Judgeman.",
+    "image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/6f/Deadly_Sentencing.png"
+  },
+  {
+    "id": 7,
+    "name": "Self-Embodiment of Perfection",
+    "user": "Mahito",
+    "type": "Lethal Domain",
+    "description": "Applies Idle Transfiguration automatically to anyone caught inside the sphere domain.",
+    "image": "https://i.pinimg.com/1200x/ea/a6/f2/eaa6f2465ac7c26dbcbeeddb9be4a3aa.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Coffin of the Iron Mountain",
+    "user": "Jogo",
+    "type": "Lethal Domain",
+    "description": "Constructs a volcanic interior filled with molten rock and intense heat capable of burning average sorcerers.",
+    "image": "https://i.pinimg.com/1200x/a3/47/83/a347836ce1cc493f571f618c76386cf1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Horizon of the Captivating Skiff",
+    "user": "Dagon",
+    "type": "Lethal Domain",
+    "description": "Manifests a tropical beach environment that unleashes infinite Shikigami swarms via Death Swarm.",
+    "image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/cc/Naobito_trapped_in_Horizon_of_the_Captivating_Skandha_%28Anime%29.png/revision/latest/scale-to-width-down/1000?cb=20231026234744"
+  },
+  {
+    "id": 10,
+    "name": "Womb Profusion (Taijō Hōtai)",
+    "user": "Kenjaku",
+    "type": "Open-Barrier Domain",
+    "description": "An open domain manifesting a totem pillar of twisted bodies, applying massive gravitational pressure.",
+    "image": "https://preview.redd.it/my-personal-theory-for-how-womb-profusion-works-v0-kphwajivwwvd1.jpeg?auto=webp&s=849a5880c01affec0f2f806ac0f335006509df5d"
+  },
+  {
+    "id": 11,
+    "name": "Three-Fold Affliction",
+    "user": "Yorozu",
+    "type": "Lethal Domain",
+    "description": "Allows Yorozu to hit targets with Liquid Metal or her Perfect Sphere generating infinite pressure.",
+    "image": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2025/06/threefold-affliction-yorozu-cropped.jpg?q=49&fit=crop&w=825&dpr=2"
+  },
+  {
+    "id": 12,
+    "name": "Time Cell Moon Palace",
+    "user": "Naoya Zen'in (Cursed Spirit)",
+    "type": "Lethal Domain",
+    "description": "Forces Projection Sorcery down to a cellular level, tearing apart targets moving against 24 FPS rules.",
+    "image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/26/Time_Cell_Moon_Palace.png/revision/latest?cb=20220925231506"
+  },
+  {
+    "id": 13,
+    "name": "Idle Transfiguration (Hanami)",
+    "user": "Hanami",
+    "type": "Lethal Domain",
+    "description": "Interrupted before full manifestation; involves a flower field and solar-powered cursed beam devices.",
+    "image": "https://www.animeexplained.com/wp-content/uploads/2023/06/mahito-idle-transfiguration-explained.webp"
+  },
+  {
+    "id": 14,
+    "name": "Small Fry Fortune",
+    "user": "Small Fry Curse (Finger Bearer)",
+    "type": "Incomplete Domain",
+    "description": "An instinctual, incomplete domain created by cursed spirits holding Sukuna's fingers.",
+    "image": "https://i.redd.it/uzsruv1dkzgc1.png"
+  },
+  {
+    "id": 15,
+    "name": "Yuji's Domain Expansion",
+    "user": "Yuji Itadori",
+    "type": "Lethal / Soul-Targeting Domain",
+    "description": "Manifests as Yuji's hometown environment in Sendai, targeting the boundary between souls using Soul Dismantle.",
+    "image": "https://i.postimg.cc/D0QZqzJq/image.png"
+  }
+]
